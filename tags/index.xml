@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on John Dilger</title>
-    <link>jdilger.github.io/tags/</link>
+    <link>https://jdilger.github.io/tags/</link>
     <description>Recent content in Tags on John Dilger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 02 Mar 2018 14:02:37 -0800</lastBuildDate>
     
-	<atom:link href="jdilger.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jdilger.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Environment</title>
-      <link>jdilger.github.io/tags/environment/</link>
+      <link>https://jdilger.github.io/tags/environment/</link>
       <pubDate>Fri, 02 Mar 2018 14:02:37 -0800</pubDate>
       
-      <guid>jdilger.github.io/tags/environment/</guid>
+      <guid>https://jdilger.github.io/tags/environment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gis</title>
-      <link>jdilger.github.io/tags/gis/</link>
+      <link>https://jdilger.github.io/tags/gis/</link>
       <pubDate>Fri, 02 Mar 2018 14:02:37 -0800</pubDate>
       
-      <guid>jdilger.github.io/tags/gis/</guid>
+      <guid>https://jdilger.github.io/tags/gis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Remote Sensing</title>
-      <link>jdilger.github.io/tags/remote-sensing/</link>
+      <link>https://jdilger.github.io/tags/remote-sensing/</link>
       <pubDate>Fri, 02 Mar 2018 14:02:37 -0800</pubDate>
       
-      <guid>jdilger.github.io/tags/remote-sensing/</guid>
+      <guid>https://jdilger.github.io/tags/remote-sensing/</guid>
       <description></description>
     </item>
     

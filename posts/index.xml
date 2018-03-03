@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on John Dilger</title>
-    <link>jdilger.github.io/posts/</link>
+    <link>https://jdilger.github.io/posts/</link>
     <description>Recent content in Posts on John Dilger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 02 Mar 2018 13:49:17 -0800</lastBuildDate>
     
-	<atom:link href="jdilger.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jdilger.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Sample Story Map</title>
-      <link>jdilger.github.io/posts/gissig/</link>
+      <link>https://jdilger.github.io/posts/gissig/</link>
       <pubDate>Fri, 02 Mar 2018 13:49:17 -0800</pubDate>
       
-      <guid>jdilger.github.io/posts/gissig/</guid>
+      <guid>https://jdilger.github.io/posts/gissig/</guid>
       <description>here be a story of maps *yee haw caw</description>
     </item>
     
     <item>
       <title>Remotesensingiscool</title>
-      <link>jdilger.github.io/posts/remotesensingiscool/</link>
+      <link>https://jdilger.github.io/posts/remotesensingiscool/</link>
       <pubDate>Fri, 02 Mar 2018 13:48:36 -0800</pubDate>
       
-      <guid>jdilger.github.io/posts/remotesensingiscool/</guid>
+      <guid>https://jdilger.github.io/posts/remotesensingiscool/</guid>
       <description>this is some text bold! Look at this I think the earth is flat but whats underneth it???????????????????????????</description>
     </item>
     
