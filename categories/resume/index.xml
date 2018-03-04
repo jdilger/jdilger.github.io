@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resume on John Dilger</title>
+    <link>https://jdilger.github.io/categories/resume/</link>
+    <description>Recent content in Resume on John Dilger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Mar 2018 12:07:10 -0800</lastBuildDate>
+    
+	<atom:link href="https://jdilger.github.io/categories/resume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resume</title>
+      <link>https://jdilger.github.io/resume/</link>
+      <pubDate>Sat, 03 Mar 2018 12:07:10 -0800</pubDate>
+      
+      <guid>https://jdilger.github.io/resume/</guid>
+      <description>John Dilger  San Francisco, CA ● JohnJDilger@gmail.com
+   Education      University of San Francisco (USF) Bachelor of Science: Environmental Science - 3.52 GPA. May 2016   GIS Certification - USF Dec 2016        Work Experience      NASA DEVELOP National Program – SSAI Geoinformatic Fellowship  Serve as point of contact for GIS, remote sensing,and scripting/programming needs.</description>
+    </item>
+    
+  </channel>
+</rss>

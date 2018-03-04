@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jdilger.github.io/resume/</loc>
+    <lastmod>2018-03-03T12:07:10-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jdilger.github.io/about/</loc>
     <lastmod>2018-03-02T14:02:37-08:00</lastmod>
   </url>
@@ -19,6 +24,13 @@
   
   <url>
     <loc>https://jdilger.github.io/categories/</loc>
+    <lastmod>2018-03-02T14:02:37-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jdilger.github.io/categories/</loc>
+    <lastmod>2018-03-02T14:02:37-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,13 +60,19 @@
   
   <url>
     <loc>https://jdilger.github.io/categories/posts/</loc>
-    <lastmod>2018-03-02T14:02:37-08:00</lastmod>
+    <lastmod>2018-03-02T13:49:17-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jdilger.github.io/tags/remote-sensing/</loc>
     <lastmod>2018-03-02T14:02:37-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jdilger.github.io/categories/resume/</loc>
+    <lastmod>2018-03-03T12:07:10-08:00</lastmod>
     <priority>0</priority>
   </url>
   

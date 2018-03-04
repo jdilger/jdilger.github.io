@@ -1,0 +1,18 @@
+.resHead {
+
+	// I think ^ that makes the text wrap based on screen. maybe look into it.
+	text-align: center
+
+}
+	.resBody {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0px 40px 20px 40px;
+}
+.resBody h1 {
+    font-size: 30px;
+    letter-spacing: -1px;
+    color: #EB1;
+    font-weight: bold;
+    text-align: center
+}
