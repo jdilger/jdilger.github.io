@@ -6,27 +6,19 @@
     <description>Recent content in Posts on John Dilger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Mar 2018 13:49:17 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Mar 2018 13:48:36 -0800</lastBuildDate>
     
 	<atom:link href="https://jdilger.github.io/categories/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Sample Story Map</title>
-      <link>https://jdilger.github.io/posts/gissig/</link>
-      <pubDate>Fri, 02 Mar 2018 13:49:17 -0800</pubDate>
-      
-      <guid>https://jdilger.github.io/posts/gissig/</guid>
-      <description>here be a story of maps *yee haw caw</description>
-    </item>
-    
-    <item>
-      <title>Remotesensingiscool</title>
+      <title>Hello World!</title>
       <link>https://jdilger.github.io/posts/remotesensingiscool/</link>
       <pubDate>Fri, 02 Mar 2018 13:48:36 -0800</pubDate>
       
       <guid>https://jdilger.github.io/posts/remotesensingiscool/</guid>
-      <description>this is some text bold! Look at this I think the earth is flat but whats underneth it???????????????????????????</description>
+      <description>Hello world! This is my very first post to this mini resume-blog site. Primarily, I hope to use this to maintain a working version of my resume, but I will also use it to display some of my side projects “&amp;amp;” hopefully teach some interesting remote sensing or GIS techniques along the way.
+This site is generated using Hugo, a static site generator, and is being hosted via GitHub. I’d suggest the combo to anyone who is willing to delve a little into HTML/CSS and likes being cheap.</description>
     </item>
     
   </channel>

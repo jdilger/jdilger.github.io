@@ -13,8 +13,9 @@
     
   
   
-  <meta name="twitter:title" content="Remotesensingiscool"/>
-  <meta name="twitter:description" content="this is some text bold! Look at this I think the earth is flat but whats underneth it???????????????????????????"/>
+  <meta name="twitter:title" content="Hello World!"/>
+  <meta name="twitter:description" content="Hello world! This is my very first post to this mini resume-blog site. Primarily, I hope to use this to maintain a working version of my resume, but I will also use it to display some of my side projects “&amp;” hopefully teach some interesting remote sensing or GIS techniques along the way.
+This site is generated using Hugo, a static site generator, and is being hosted via GitHub. I’d suggest the combo to anyone who is willing to delve a little into HTML/CSS and likes being cheap."/>
   
     <meta name="twitter:site" content="@your_twitter_id"/>
   
@@ -30,7 +31,7 @@
 		<meta name="author" content="John Dilger">
 		<meta name="description" content="A small show case of my GIS &amp; Remote Sening work">
 		<meta name="generator" content="Hugo 0.37" />
-		<title>Remotesensingiscool &middot; John Dilger</title>
+		<title>Hello World! &middot; John Dilger</title>
 		<link rel="shortcut icon" href="https://jdilger.github.io/images/favicon.ico">
 		<link rel="stylesheet" href="https://jdilger.github.io/css/style.css">
 		<link rel="stylesheet" href="https://jdilger.github.io/css/highlight.css">
@@ -40,11 +41,11 @@
 		
 
 		
-		<link href="https://jdilger.github.io/index.xml" rel="alternate" type="application/rss+xml" title="John Dilger" />
-		
 
 		
 		<link rel="stylesheet" href="https://jdilger.github.io/css/resume.css">
+		
+		<link rel="stylesheet" href="https://jdilger.github.io/">
 		
 	</head>
 
@@ -62,8 +63,6 @@
 	
 
 	
-	<a class="cta" href="https://jdilger.github.io/index.xml">Subscribe</a>
-	
 </nav>
 
 
@@ -71,12 +70,12 @@
             <article>
                 <header>
                     <h1>
-                        Remotesensingiscool
+                        Hello World!
                     </h1>
                     <h2 class="headline">
                     Mar 2, 2018 13:48
-                    · 18 words
-                    · 1 minute read
+                    · 335 words
+                    · 2 minute read
                       <span class="tags">
                       
                       
@@ -96,18 +95,35 @@
                   
                 
                 <section id="post-body">
-                    <p>this is some text <em>bold!</em> Look at this I think the earth is flat
-but whats underneth it????????<em>??????</em>????<strong><em>??????</em></strong>??<em>?</em>
+                    <p>Hello world! This is my very first post to this mini resume-blog site. Primarily, I hope to use this to maintain a working version of my resume, but I will also use it to display some of my side projects “&amp;” hopefully teach some interesting remote sensing or GIS techniques along the way.</p>
+
+<p>This site is generated using Hugo, a static site generator, and is being hosted via GitHub. I’d suggest the combo to anyone who is willing to delve a little into HTML/CSS and likes being cheap. Honestly you can make a killer looking site by sticking to the per-created themes, but if you have a little drive you can make some worthwhile alterations.</p>
+
+<p>I spent a decent amount of time looking for a web presence that worked for me… essentially I wanted something, free(maybe extremely cheap), slick, and something that allowed me to use my limited front-end experience to funk it up. Specifically, I was looking to incorporate story maps &amp; an image slider from Knightlabs because I really liked how easy they made the process. For my work as a Geoinformatics fellow science communication is an important aspect and being able to freely and quickly host these things on the web was an interesting topic to me. Places like Wordpress or GoogleSites didn’t make the cut because or pay-to-blog or iFrame restrictions.
+Using Hugo I can have full control of my site…while not having to have full control, if you catch my drift. To display this two image slider I made a “short-code.” Basically, its just a wrapper so you can quickly embed it via the markdown format for Hugo sites.</p>
+
 
 <div>
 <iframe frameborder="0" class="juxtapose" width="600" height="396" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=805d51aa-1e7d-11e8-b263-0edaf8f81e27"></iframe>
-</div></p>
+</div>
+
+<p>The short-code for the slider (just a reminder that it is knightlabs that did all the real work here) to embed on a hugo site is:</p>
+
+<pre><code>&lt;div&gt;
+&lt;iframe frameborder=&quot;0&quot; class=&quot;juxtapose&quot; width=&quot;600&quot; height=&quot;396&quot; src=&quot;https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid={{ index .Params 0 }}&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</code></pre>
+
+<p>then to call it in you&rsquo;re post all you need to the id generated when you make your slider, for example:</p>
+
+<pre><code>&lt;2pan 805d51aa-1e7d-11e8-b263-0edaf8f81e27&gt;
+</code></pre>
 
                 </section>
             </article>
 
             
-                <a class="twitter" href="https://twitter.com/intent/tweet?text=https%3a%2f%2fjdilger.github.io%2fposts%2fremotesensingiscool%2f - Remotesensingiscool by @your_twitter_id"><span class="icon-twitter"> tweet</span></a>
+                <a class="twitter" href="https://twitter.com/intent/tweet?text=https%3a%2f%2fjdilger.github.io%2fposts%2fremotesensingiscool%2f - Hello%20World%21 by @your_twitter_id"><span class="icon-twitter"> tweet</span></a>
 
 <a class="facebook" href="#" onclick="
     window.open(
@@ -129,16 +145,8 @@ but whats underneth it????????<em>??????</em>????<strong><em>??????</em></strong
 
 	
 	
-    <a class="symbol" href="https://www.facebook.com/nodejh">
-        <i class="fa fa-facebook-square"></i>
-    </a>
-    
-    <a class="symbol" href="https://www.github.com/nodejh">
+    <a class="symbol" href="https://www.github.com/jdilger">
         <i class="fa fa-github-square"></i>
-    </a>
-    
-    <a class="symbol" href="https://www.twitter.com/nodejh">
-        <i class="fa fa-twitter-square"></i>
     </a>
     
 
@@ -151,9 +159,7 @@ but whats underneth it????????<em>??????</em>????<strong><em>??????</em></strong
        © Copyright 2018 <i class="fa fa-heart" aria-hidden="true"></i> John Dilger
     
     </p>
-    <p class="small">
-        Powered by <a href="http://www.gohugo.io/">Hugo</a> Theme By <a href="https://github.com/nodejh/hugo-theme-cactus-plus">nodejh</a>
-    </p>
+
 </footer>
 
         </section>
@@ -163,6 +169,8 @@ but whats underneth it????????<em>??????</em>????<strong><em>??????</em></strong
 <script src="https://jdilger.github.io/js/highlight.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
+
+<script src="https://jdilger.github.io/"></script>
 
 
 
